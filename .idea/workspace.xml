@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7aad1c0-0a0b-47ab-866c-3e802ed4655c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5eb3764a-8cc5-4d19-bb8d-960d13066c49.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5eb3764a-8cc5-4d19-bb8d-960d13066c49/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_22_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaskJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoHibernateImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoJDBCImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/util/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/UserServiceTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j0czUXYujQrObJ2O4fuNKZdycI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JM_Task_1.1.3" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.UserServiceTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jm.task.core.jdbc.Main" />
+      <module name="TaskJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jm.task.core.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7aad1c0-0a0b-47ab-866c-3e802ed4655c" name="Default Changelist" comment="" />
+      <created>1602944711999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602944711999</updated>
+      <workItem from="1602944713097" duration="13715000" />
+      <workItem from="1603018732659" duration="639000" />
+      <workItem from="1603019457222" duration="3529000" />
+      <workItem from="1603085317773" duration="221000" />
+      <workItem from="1603090717135" duration="48000" />
+      <workItem from="1603101002022" duration="1798000" />
+      <workItem from="1603103006546" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="855" y="433" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603101012818">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="855" y="433" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/-1280.405.1280.1024@0.0.2560.1440" timestamp="1603101012818" />
+    <state x="855" y="433" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603009243749" />
+    <state x="989" y="465" key="#com.intellij.ide.util.MemberChooser" timestamp="1602947559010">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="989" y="465" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1602947559010" />
+    <state x="930" y="465" key="FileChooserDialogImpl" timestamp="1603103054044">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="930" y="465" key="FileChooserDialogImpl/0.0.2560.1440/-1280.405.1280.1024@0.0.2560.1440" timestamp="1603103054044" />
+    <state x="1007" y="635" key="Github.ShareDialog" timestamp="1603023346501">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1007" y="635" key="Github.ShareDialog/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603023346501" />
+    <state width="1782" height="259" key="GridCell.Tab.0.bottom" timestamp="1603103056025">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1782" height="259" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1280.405.1280.1024@0.0.2560.1440" timestamp="1603103056025" />
+    <state width="1782" height="273" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603023105986" />
+    <state width="1782" height="259" key="GridCell.Tab.0.center" timestamp="1603103056025">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1782" height="259" key="GridCell.Tab.0.center/0.0.2560.1440/-1280.405.1280.1024@0.0.2560.1440" timestamp="1603103056025" />
+    <state width="1782" height="273" key="GridCell.Tab.0.center/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603023105986" />
+    <state width="1782" height="259" key="GridCell.Tab.0.left" timestamp="1603103056025">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1782" height="259" key="GridCell.Tab.0.left/0.0.2560.1440/-1280.405.1280.1024@0.0.2560.1440" timestamp="1603103056025" />
+    <state width="1782" height="273" key="GridCell.Tab.0.left/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603023105986" />
+    <state width="1782" height="259" key="GridCell.Tab.0.right" timestamp="1603103056025">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1782" height="259" key="GridCell.Tab.0.right/0.0.2560.1440/-1280.405.1280.1024@0.0.2560.1440" timestamp="1603103056025" />
+    <state width="1782" height="273" key="GridCell.Tab.0.right/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603023105986" />
+    <state width="2517" height="507" key="GridCell.Tab.1.bottom" timestamp="1603018495891">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="507" key="GridCell.Tab.1.bottom/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603018495891" />
+    <state width="2517" height="507" key="GridCell.Tab.1.center" timestamp="1603018495891">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="507" key="GridCell.Tab.1.center/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603018495891" />
+    <state width="2517" height="507" key="GridCell.Tab.1.left" timestamp="1603018495891">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="507" key="GridCell.Tab.1.left/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603018495891" />
+    <state width="2517" height="507" key="GridCell.Tab.1.right" timestamp="1603018495891">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="507" key="GridCell.Tab.1.right/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603018495891" />
+    <state x="743" y="349" key="SettingsEditor" timestamp="1602944969864">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="743" y="349" key="SettingsEditor/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1602944969864" />
+    <state x="788" y="499" key="Vcs.Push.Dialog.v2" timestamp="1603023392127">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="788" y="499" key="Vcs.Push.Dialog.v2/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603023392127" />
+    <state x="1013" y="680" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603018432398">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1013" y="680" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/2560.0.1280.1024@0.0.2560.1440" timestamp="1603018432398" />
+    <state x="724" y="427" width="922" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603101793351">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="724" y="427" width="922" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1440/-1280.405.1280.1024@0.0.2560.1440" timestamp="1603101793351" />
+    <state x="848" y="370" width="672" height="678" key="search.everywhere.popup" timestamp="1603102343911">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="848" y="370" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440/-1280.405.1280.1024@0.0.2560.1440" timestamp="1603102343911" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLSyntaxErrorException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
